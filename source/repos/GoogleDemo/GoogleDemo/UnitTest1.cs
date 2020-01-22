@@ -9,7 +9,7 @@ namespace GoogleDemo
         [TestMethod]
         public void TestMethod1()
         {
-            String s;
+            String s = "Test";
         }
     }
 }
