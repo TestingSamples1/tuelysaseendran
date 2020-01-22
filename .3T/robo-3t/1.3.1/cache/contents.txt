@@ -1,0 +1,38 @@
+Need a more powerful GUI? Try Robo 3T's sibling, Studio 3T 
+<br/>
+<style type="text/css"> a { display: block; color: #47b648; } .text-primary { font-size: 18px; color: #47b648; } p { font-size: 14px; } .button { font-size: 16px; font-weight: bold; } </style>
+<p class="text-primary">Enjoy new features like:</p>
+<p>
+    - Schedule MongoDB tasks
+</p>
+<p>
+    - Write SQL to query MongoDB
+</p>
+<p>
+    - Import multiple SQL tables to a single MongoDB collection
+</p>
+<p>
+    - Enjoy rich query autocompletion
+</p>
+<p>
+    - Build queries via drag-and-drop
+</p>
+<p>
+    - Import and export in various formats (CSV, JSON, SQL, BSON/mongodump)
+</p>
+<p>
+    - Break down aggregation queries into stages
+</p>
+<p>
+    - Generate driver code in five languages
+</p>
+<p>
+    - Compare collections and view differences side-by-side
+</p>
+<p>
+    - Explore data schema and find outliers
+</p>
+<br/>
+<br/>
+<a class="button" href="https://studio3t.com/download/?utm_source=meet-studio-3t-6&utm_medium=welcomepage&utm_campaign=inapp-robo3t">Download Studio 3T</a>
+

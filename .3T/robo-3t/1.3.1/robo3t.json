@@ -1,0 +1,423 @@
+{
+ "acceptedEulaVersions" : [
+  "1.3.1"
+ ],
+ "anonymousID" : "693cc09e-e967-4d66-bbf2-b492022a4ee2",
+ "autoExec" : true,
+ "autoExpand" : true,
+ "autocompletionMode" : 1,
+ "batchSize" : 50,
+ "cacheData" : {
+  "wtImage1LastModifiedDate" : "2019-05-03T10:16:17Z",
+  "wtRssLastModifiedDate" : "NotImplemented",
+  "wtText1LastModifiedDate" : "2019-05-03T12:06:54Z"
+ },
+ "checkForUpdates" : true,
+ "connections" : [
+  {
+   "connectionName" : "hughub-wrisktest",
+   "credentials" : [
+    {
+     "databaseName" : "hughub-wrisktest",
+     "enabled" : true,
+     "mechanism" : "SCRAM-SHA-1",
+     "userName" : "admin",
+     "userPasswordEncrypted" : "AwIQQGYzDCNUEw=="
+    }
+   ],
+   "defaultDatabase" : "",
+   "isReplicaSet" : false,
+   "serverHost" : "ds014138-a0.mlab.com",
+   "serverPort" : 14138,
+   "ssh" : {
+    "askPassword" : false,
+    "enabled" : false,
+    "host" : "",
+    "method" : "publickey",
+    "passphraseEncrypted" : "",
+    "port" : 22,
+    "privateKeyFile" : "",
+    "publicKeyFile" : "",
+    "userName" : "",
+    "userPasswordEncrypted" : ""
+   },
+   "ssl" : {
+    "allowInvalidCertificates" : false,
+    "allowInvalidHostnames" : false,
+    "askPassphrase" : false,
+    "caFile" : "",
+    "crlFile" : "",
+    "pemKeyFile" : "",
+    "pemPassPhraseEncrypted" : "",
+    "sslEnabled" : false,
+    "useAdvancedOptions" : false,
+    "usePemFile" : false
+   },
+   "uuid" : "{b7f64b55-89e1-4b99-80f2-431f577a9813}"
+  },
+  {
+   "connectionName" : "hughub-brightsidetest",
+   "credentials" : [
+    {
+     "databaseName" : "hughub-brightsidetest",
+     "enabled" : true,
+     "mechanism" : "SCRAM-SHA-1",
+     "userName" : "admin",
+     "userPasswordEncrypted" : "AwJoOB5LdFssaw=="
+    }
+   ],
+   "defaultDatabase" : "",
+   "isReplicaSet" : false,
+   "serverHost" : "ds113713.mlab.com",
+   "serverPort" : 13713,
+   "ssh" : {
+    "askPassword" : false,
+    "enabled" : false,
+    "host" : "",
+    "method" : "publickey",
+    "passphraseEncrypted" : "",
+    "port" : 22,
+    "privateKeyFile" : "",
+    "publicKeyFile" : "",
+    "userName" : "",
+    "userPasswordEncrypted" : ""
+   },
+   "ssl" : {
+    "allowInvalidCertificates" : false,
+    "allowInvalidHostnames" : false,
+    "askPassphrase" : false,
+    "caFile" : "",
+    "crlFile" : "",
+    "pemKeyFile" : "",
+    "pemPassPhraseEncrypted" : "",
+    "sslEnabled" : false,
+    "useAdvancedOptions" : false,
+    "usePemFile" : false
+   },
+   "uuid" : "{f6ec7f58-1186-4832-9064-71bcbd3c3f07}"
+  },
+  {
+   "connectionName" : "hughub-g2itest",
+   "credentials" : [
+    {
+     "databaseName" : "hughub-g2itest",
+     "enabled" : true,
+     "mechanism" : "SCRAM-SHA-1",
+     "userName" : "admin",
+     "userPasswordEncrypted" : "AwJbcoLX6Mew9zQagA=="
+    }
+   ],
+   "defaultDatabase" : "",
+   "isReplicaSet" : false,
+   "serverHost" : "ds016128.mlab.com",
+   "serverPort" : 16128,
+   "ssh" : {
+    "askPassword" : false,
+    "enabled" : false,
+    "host" : "",
+    "method" : "publickey",
+    "passphraseEncrypted" : "",
+    "port" : 22,
+    "privateKeyFile" : "",
+    "publicKeyFile" : "",
+    "userName" : "",
+    "userPasswordEncrypted" : ""
+   },
+   "ssl" : {
+    "allowInvalidCertificates" : false,
+    "allowInvalidHostnames" : false,
+    "askPassphrase" : false,
+    "caFile" : "",
+    "crlFile" : "",
+    "pemKeyFile" : "",
+    "pemPassPhraseEncrypted" : "",
+    "sslEnabled" : false,
+    "useAdvancedOptions" : false,
+    "usePemFile" : false
+   },
+   "uuid" : "{9764293f-0c1c-42ed-b0aa-cee898c38c1e}"
+  },
+  {
+   "connectionName" : "hughub-g2iuat",
+   "credentials" : [
+    {
+     "databaseName" : "hughub-g2iuat",
+     "enabled" : true,
+     "mechanism" : "SCRAM-SHA-1",
+     "userName" : "admin",
+     "userPasswordEncrypted" : "AwK8lWUwDyBXENP9Zw=="
+    }
+   ],
+   "defaultDatabase" : "",
+   "isReplicaSet" : false,
+   "serverHost" : "ds139193.mlab.com",
+   "serverPort" : 39193,
+   "ssh" : {
+    "askPassword" : false,
+    "enabled" : false,
+    "host" : "",
+    "method" : "publickey",
+    "passphraseEncrypted" : "",
+    "port" : 22,
+    "privateKeyFile" : "",
+    "publicKeyFile" : "",
+    "userName" : "",
+    "userPasswordEncrypted" : ""
+   },
+   "ssl" : {
+    "allowInvalidCertificates" : false,
+    "allowInvalidHostnames" : false,
+    "askPassphrase" : false,
+    "caFile" : "",
+    "crlFile" : "",
+    "pemKeyFile" : "",
+    "pemPassPhraseEncrypted" : "",
+    "sslEnabled" : false,
+    "useAdvancedOptions" : false,
+    "usePemFile" : false
+   },
+   "uuid" : "{dbe394d9-2c9e-4883-9e5f-a880d207f2df}"
+  },
+  {
+   "connectionName" : "hughub-musketeertest",
+   "credentials" : [
+    {
+     "databaseName" : "hughub-musketeertest",
+     "enabled" : true,
+     "mechanism" : "SCRAM-SHA-1",
+     "userName" : "admin",
+     "userPasswordEncrypted" : "AwJqQ7Pm2faBxgUrsQ=="
+    }
+   ],
+   "defaultDatabase" : "",
+   "isReplicaSet" : false,
+   "serverHost" : "ds026558.mlab.com",
+   "serverPort" : 26558,
+   "ssh" : {
+    "askPassword" : false,
+    "enabled" : false,
+    "host" : "",
+    "method" : "publickey",
+    "passphraseEncrypted" : "",
+    "port" : 22,
+    "privateKeyFile" : "",
+    "publicKeyFile" : "",
+    "userName" : "",
+    "userPasswordEncrypted" : ""
+   },
+   "ssl" : {
+    "allowInvalidCertificates" : false,
+    "allowInvalidHostnames" : false,
+    "askPassphrase" : false,
+    "caFile" : "",
+    "crlFile" : "",
+    "pemKeyFile" : "",
+    "pemPassPhraseEncrypted" : "",
+    "sslEnabled" : false,
+    "useAdvancedOptions" : false,
+    "usePemFile" : false
+   },
+   "uuid" : "{f307599b-884c-4b9e-966d-0e4f5a1847c6}"
+  },
+  {
+   "connectionName" : "hughub-g2irenewalstest",
+   "credentials" : [
+    {
+     "databaseName" : "admin",
+     "enabled" : true,
+     "mechanism" : "SCRAM-SHA-1",
+     "userName" : "admin",
+     "userPasswordEncrypted" : "AwIOuj16FzZ5PLqWcjETAlE="
+    }
+   ],
+   "defaultDatabase" : "hughub-g2irenewalstest",
+   "isReplicaSet" : true,
+   "replicaSet" : {
+    "0" : "hughub-g2irenewalstest-shard-00-00-trsqm.azure.mongodb.net:27017",
+    "1" : "hughub-g2irenewalstest-shard-00-01-trsqm.azure.mongodb.net:27017",
+    "2" : "hughub-g2irenewalstest-shard-00-02-trsqm.azure.mongodb.net:27017",
+    "cachedSetName" : "hughub-g2irenewalstest-shard-0",
+    "readPreference" : 0,
+    "setNameUserEntered" : ""
+   },
+   "serverHost" : "hughub-g2irenewalstest-shard-00-00-trsqm.azure.mongodb.net",
+   "serverPort" : 27017,
+   "ssh" : {
+    "askPassword" : false,
+    "enabled" : false,
+    "host" : "",
+    "method" : "publickey",
+    "passphraseEncrypted" : "",
+    "port" : 22,
+    "privateKeyFile" : "",
+    "publicKeyFile" : "",
+    "userName" : "",
+    "userPasswordEncrypted" : ""
+   },
+   "ssl" : {
+    "allowInvalidCertificates" : true,
+    "allowInvalidHostnames" : false,
+    "askPassphrase" : false,
+    "caFile" : "",
+    "crlFile" : "",
+    "pemKeyFile" : "",
+    "pemPassPhraseEncrypted" : "",
+    "sslEnabled" : true,
+    "useAdvancedOptions" : false,
+    "usePemFile" : false
+   },
+   "uuid" : "{960d9c0f-e84c-4034-8170-1ac671c3a097}"
+  },
+  {
+   "connectionName" : "hughub-tradedirectuat",
+   "credentials" : [
+    {
+     "databaseName" : "hughub-tradedirectuat",
+     "enabled" : true,
+     "mechanism" : "SCRAM-SHA-1",
+     "userName" : "admin",
+     "userPasswordEncrypted" : "AwLFdR1Id1gvaKs="
+    }
+   ],
+   "defaultDatabase" : "",
+   "isReplicaSet" : false,
+   "serverHost" : "ds225543.mlab.com",
+   "serverPort" : 25543,
+   "ssh" : {
+    "askPassword" : false,
+    "enabled" : false,
+    "host" : "",
+    "method" : "publickey",
+    "passphraseEncrypted" : "",
+    "port" : 22,
+    "privateKeyFile" : "",
+    "publicKeyFile" : "",
+    "userName" : "",
+    "userPasswordEncrypted" : ""
+   },
+   "ssl" : {
+    "allowInvalidCertificates" : false,
+    "allowInvalidHostnames" : false,
+    "askPassphrase" : false,
+    "caFile" : "",
+    "crlFile" : "",
+    "pemKeyFile" : "",
+    "pemPassPhraseEncrypted" : "",
+    "sslEnabled" : false,
+    "useAdvancedOptions" : false,
+    "usePemFile" : false
+   },
+   "uuid" : "{a97f4432-1779-440a-999c-49ae6f621566}"
+  },
+  {
+   "connectionName" : "hughub-tradedirecttest",
+   "credentials" : [
+    {
+     "databaseName" : "hughub-tradedirecttest",
+     "enabled" : true,
+     "mechanism" : "SCRAM-SHA-1",
+     "userName" : "admin",
+     "userPasswordEncrypted" : "AwI2ThdTaVg1a/aYVVA5SA=="
+    }
+   ],
+   "defaultDatabase" : "",
+   "isReplicaSet" : false,
+   "serverHost" : "ds151892.mlab.com",
+   "serverPort" : 51892,
+   "ssh" : {
+    "askPassword" : false,
+    "enabled" : false,
+    "host" : "",
+    "method" : "publickey",
+    "passphraseEncrypted" : "",
+    "port" : 22,
+    "privateKeyFile" : "",
+    "publicKeyFile" : "",
+    "userName" : "",
+    "userPasswordEncrypted" : ""
+   },
+   "ssl" : {
+    "allowInvalidCertificates" : false,
+    "allowInvalidHostnames" : false,
+    "askPassphrase" : false,
+    "caFile" : "",
+    "crlFile" : "",
+    "pemKeyFile" : "",
+    "pemPassPhraseEncrypted" : "",
+    "sslEnabled" : false,
+    "useAdvancedOptions" : false,
+    "usePemFile" : false
+   },
+   "uuid" : "{e8f070dd-835b-4a57-9e5d-682da2cf6227}"
+  },
+  {
+   "connectionName" : "hughub-mrdptest",
+   "credentials" : [
+    {
+     "databaseName" : "hughub-mrdptest",
+     "enabled" : true,
+     "mechanism" : "SCRAM-SHA-1",
+     "userName" : "admin",
+     "userPasswordEncrypted" : "AwL/TydyTWIVUpE="
+    }
+   ],
+   "defaultDatabase" : "",
+   "isReplicaSet" : false,
+   "serverHost" : "ds263368.mlab.com",
+   "serverPort" : 63368,
+   "ssh" : {
+    "askPassword" : false,
+    "enabled" : false,
+    "host" : "",
+    "method" : "publickey",
+    "passphraseEncrypted" : "",
+    "port" : 22,
+    "privateKeyFile" : "",
+    "publicKeyFile" : "",
+    "userName" : "",
+    "userPasswordEncrypted" : ""
+   },
+   "ssl" : {
+    "allowInvalidCertificates" : false,
+    "allowInvalidHostnames" : false,
+    "askPassphrase" : false,
+    "caFile" : "",
+    "crlFile" : "",
+    "pemKeyFile" : "",
+    "pemPassPhraseEncrypted" : "",
+    "sslEnabled" : false,
+    "useAdvancedOptions" : false,
+    "usePemFile" : false
+   },
+   "uuid" : "{61e11aa8-edde-4f7a-93f2-a279b3b98bf0}"
+  }
+ ],
+ "dbVersionsConnected" : [
+  "4.0.13",
+  "3.6.9",
+  "3.6.12"
+ ],
+ "disableConnectionShortcuts" : false,
+ "imported" : false,
+ "lineNumbers" : false,
+ "loadMongoRcJs" : false,
+ "minimizeToTray" : false,
+ "mongoTimeoutSec" : 10,
+ "programExitedNormally" : true,
+ "shellTimeoutSec" : 150,
+ "style" : "Native",
+ "textFontFamily" : "",
+ "textFontPointSize" : -1,
+ "timeZone" : 0,
+ "toolbars" : {
+  "connect" : true,
+  "exec" : true,
+  "explorer" : true,
+  "logs" : false,
+  "open_save" : true
+ },
+ "useHttps" : false,
+ "uuidEncoding" : 0,
+ "version" : "2.0",
+ "viewMode" : 1
+}
